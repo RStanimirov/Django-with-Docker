@@ -259,7 +259,3 @@ Django container
       ▼
 localhost:8000
 ```
-
-## Source
-
-This project is based on the **SoftUni Containers and Clouds Exam — Django App with Docker** problem description. The exam requires a Dockerfile, a built Docker image, a running Django container, a screenshot of the running web application, and a text file containing the Docker CLI commands used.
