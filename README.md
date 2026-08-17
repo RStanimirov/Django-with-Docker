@@ -1,7 +1,8 @@
 # Django App with Docker
 
 A simple Django web application containerized with Docker as part of the **SoftUni DevOps for Developers** 
-The project demonstrates how to:
+
+## The project demonstrates how to:
 
 - build a Python/Django Docker image from a `Dockerfile`
 - install the application's Python dependencies
